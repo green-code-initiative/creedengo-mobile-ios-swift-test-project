@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
 
-        <sonar.sources>ecoCodeTestApp</sonar.sources>
+        <sonar.sources>ecoCodeTestApp,ecoCodeTestApp.xcodeproj</sonar.sources>
     </properties>
 
 </project>
