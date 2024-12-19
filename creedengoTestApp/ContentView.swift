@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ecoCodeTestApp
+//  creedengoTestApp
 //
 //  Created by Hertout Julien on 30/01/2023.
 //

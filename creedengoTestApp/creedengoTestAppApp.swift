@@ -1,6 +1,6 @@
 //
-//  ecoCodeTestAppApp.swift
-//  ecoCodeTestApp
+//  creedengoTestAppApp.swift
+//  creedengoTestApp
 //
 //  Created by Hertout Julien on 30/01/2023.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ecoCodeTestAppApp: App {
+struct creedengoTestAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

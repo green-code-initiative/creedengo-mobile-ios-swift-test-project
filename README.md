@@ -6,7 +6,7 @@ This project aims to demonstrate how to integrate plugin-sonarqube with an iOS p
 Step 1 : prepare local environment
 ---
 
-To launch local environment : please follow https://github.com/green-code-initiative/ecoCode/blob/main/INSTALL.md
+To launch local environment : please follow https://github.com/green-code-initiative/creedengo-common/blob/main/doc/HOWTO.md
 (especially SonarQube configuration part and get generated private token)
 
 Step 2 : send Sonar metrics to local SonarQube
