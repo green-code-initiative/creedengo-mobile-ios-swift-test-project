@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
 
-# "sonar.login" variable : private TOKEN generated in your local SonarQube during installation
-# (input paramater of this script)
-mvn org.sonarsource.scanner.maven:sonar-maven-plugin:3.9.1.2184:sonar -Dsonar.login=$1
+# "sonar.login" kept only for SONARQUBE < 10
+mvn org.sonarsource.scanner.maven:sonar-maven-plugin:3.11.0.3922:sonar -Dsonar.host.url=http://localhost:$1 -Dsonar.login=$2 -Dsonar.token=$2
