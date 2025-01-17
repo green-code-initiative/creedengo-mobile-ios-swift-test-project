@@ -1,7 +1,7 @@
 !.gitignore
 
-ecoCodeTestApp.xcodeproj/project.xcworkspace/xcuserdata
-ecoCodeTestApp.xcodeproj/xcuserdata
+creedengoTestApp.xcodeproj/project.xcworkspace/xcuserdata
+creedengoTestApp.xcodeproj/xcuserdata
 .scannerwork/
 
 .*
